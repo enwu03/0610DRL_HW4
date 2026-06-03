@@ -6,6 +6,11 @@
 
 ---
 
+## 🖼️ Infographic
+
+![Infographic](./Infographic.png)
+
+
 ## 📑 書面報告
 
 📥 [DRL_HW4_書面報告.pdf](./DRL_HW4_書面報告.pdf)
