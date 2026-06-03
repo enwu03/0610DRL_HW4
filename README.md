@@ -10,8 +10,4 @@
 
 📥 [DRL_HW4_書面報告.pdf](./DRL_HW4_書面報告.pdf)
 
----
 
-## 🖼️ Infographic
-
-![Infographic](./Infographic.png)
